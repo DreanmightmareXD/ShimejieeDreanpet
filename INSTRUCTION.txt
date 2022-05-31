@@ -1,0 +1,13 @@
+1. Go to the folder named "shimejiee"
+(If you don't have that folder, that means you have not installed the software named.
+"Shimejiee" yet! Here is the link to download it, https://kilkakon.com/shimeji/.
+And remember after downloaded it, download Java too!"
+
+2. Go to the folder named "img"
+
+3. Put the folder named "Custom" from the folder named "ShimejieeDreanpet" and
+"ShimejieeDreanpet-main" into the "img" folder.
+
+4. Go back to the "Shimejiee" folder and launch "Shimeji-ee.jar"
+
+Hope ya enjoyed it! :]
